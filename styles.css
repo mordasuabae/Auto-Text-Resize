@@ -1,0 +1,27 @@
+/* Import Google font - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.wrapper textarea{
+
+  width: 400px;
+  max-width:400px ;
+  /* resize: none; */
+  height: 29px;
+  max-height: 129px;
+  outline: none;
+  padding: 15px;
+  font-size: 16px;
+  margin-top: 20px;
+  border-radius: 5px;
+  max-height: 330px;
+  caret-color: #4671EA;
+  border: 1px solid #bfbfbf;
+  margin: 0 auto;
+  max-lines: 3;
+}
+
+.wrapper{
+    text-align: center;
+    height: 100vh;
+
+}
